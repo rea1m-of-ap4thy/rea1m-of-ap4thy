@@ -8,6 +8,8 @@
   feel free to sign [guestbook!](http://max-maxine.123guestbook.com/)
 
 <p align="center"> <img width="1000" src="https://64.media.tumblr.com/3f36620f44aadbe57343a3ada20afaf9/ee09abb08cabc6f1-a1/s400x600/bebdac05fbd74b043fce220672fe8fa103b5c6c2.pnj">
+
+<div align="left"> 
 images found on Tumblr
 
 template inspiration goes to vampbite/aless<img width="20" src="https://64.media.tumblr.com/8ea969fd69a0bb1035e74218dd68cb3d/593e3a7c1e2d1ad8-b2/s75x75_c1/be72f9e2f15e56b3b696c09a8a65f97ce818d9af.gifv">
